@@ -48,6 +48,7 @@ This project facilitates decentralized image upload and sharing on the blockchai
    ```bash
    # Navigate to the root directory
    cd Decentralized-File-Sharing
+   
    # Install hardhat dependencies
    npm install
    ```
@@ -65,7 +66,8 @@ This project facilitates decentralized image upload and sharing on the blockchai
 6. Install dependencies for the React front end in terminal 3:
    ```bash
    # Navigate to the React client directory
-   cd client 
+   cd client
+   
    # Install React dependencies
    npm install
    ```
